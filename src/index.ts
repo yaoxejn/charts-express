@@ -5,6 +5,9 @@ import dotenv from 'dotenv'
 import { authentication } from './middleware/auth'
 import { errorMiddleware } from './middleware/errorMiddleware'
 
+import { router as customize } from './routes/basic'
+
+dotenv.config({ override: false }) // Override any environment variables that have already been set on your machine with values from your .env file. default true. 
 
 const app: Express = express()
 const port = process.env.PORT
@@ -23,6 +26,7 @@ app.get('/', (req: Request, res: Response) => {
     res.send(`TypeScript Express Server + ECharts v${version}`)
 })
 
+app.use('/echartsapi/customize', customize)
 
 app.use(errorMiddleware)
 

@@ -1,6 +1,6 @@
 import * as echarts from 'echarts'
 import { Canvas, createCanvas } from 'canvas'
-import { EchartsRenderConfig, EchartsRenderCallback } from './echartsRenderer.d'
+import { EchartsRenderConfig, EchartsRenderCallback } from '.'
 import { EChartsOption } from 'echarts'
 import { ImageFormat, isFunc, saveJpgBase64, savePngBase64, setBgTransparent } from '../utils/echartsUtils'
 
@@ -38,7 +38,7 @@ export const Render = async (srcCfg: EchartsRenderConfig, onRendered: (done: Ech
     }
 
     const defCfg: EchartsRenderConfig = {
-        width: 500, height: 500, option: opt, theme: ''
+        width: 930, height: 480, option: opt, theme: ''
     }
 
     const config = assign(defCfg, srcCfg)
