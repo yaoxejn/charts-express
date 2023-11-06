@@ -1,0 +1,44 @@
+{
+  "name": "charts-express",
+  "version": "1.0.0",
+  "description": "express webapi with echarts.js",
+  "main": "index.ts",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoxejn/charts-express.git"
+  },
+  "keywords": [
+    "echarts ssr",
+    "express webapi",
+    "nodejs"
+  ],
+  "author": "yaoxejn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaoxejn/charts-express/issues"
+  },
+  "homepage": "https://github.com/yaoxejn/charts-express#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "echarts": "^5.4.3",
+    "express": "^4.18.2",
+    "node-windows": "^1.0.0-beta.8"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.15",
+    "@types/echarts": "^4.9.20",
+    "@types/express": "^4.17.20",
+    "@types/node": "^20.8.10",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
