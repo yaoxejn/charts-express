@@ -57,10 +57,10 @@ Test with Postman
 
 - Create a new request.
 - Set the HTTP method to POST.
-- Set the URI to http://localhost:\<port\>/. For example, http://localhost:3000/echartsapi/customize/basic.
+- Set the URI to http://localhost:<port\>/. For example, http://localhost:3000/echartsapi/customize/basic.
 - Select the Body tab.
 - Select the raw radio button.
-- Set the type to JSON (application/json).  For example: (from offical example [***bar-y-category-stack***](https://echarts.apache.org/examples/zh/editor.html?c=bar-y-category-stack))
+- Set the type to JSON (application/json).  For example: (which cames from offical example [***bar-y-category-stack***](https://echarts.apache.org/examples/zh/editor.html?c=bar-y-category-stack))
 
 ``` json
 {
@@ -136,7 +136,7 @@ Test with Postman
 
 ```
 
-- Select the Auth tab, and select "Bearer Token" from the Type dropdown list. The Token could be one of  the keys in the file (src/data/keys.json) by default, for example, A3E2AD92A8714D099C4B5FFAF77161E8. You could create your own API authentication, such as JWT , API Key and Basic Auth.
+- Select the Auth tab, and select "Bearer Token" from the Type dropdown list. The Token could be one of  the keys in the file (./src/data/keys.json) by default, for example, A3E2AD92A8714D099C4B5FFAF77161E8. You could create your own API authentication, such as JWT , API Key and Basic Auth.
 - Select Send.
 
 In this case, the result will be a JSON like below:
@@ -150,6 +150,9 @@ In this case, the result will be a JSON like below:
 }
 
 ```
+![Result(SVG)](./images/controllers_brief.svg)
+<img src="./images/controllers_brief.svg">
+
 
 Other example is to output file directly by using parameter output through URL http://localhost:3000/echartsapi/customize/basic-full.
 
@@ -181,7 +184,7 @@ The application supported all offical themes by using parameter theme. For examp
 }
 ```
 
-All theme files are located in the directory (src/theme/echarts). Putting your own theme file to the directory so that the application will support those theme directly.
+All theme files are located in the directory (./src/theme/echarts). Putting your own theme file to the directory so that the application will support those theme directly.
 
 ```diff
   ├─┬ src

@@ -1,0 +1,114 @@
+<svg width="930" height="450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 930 450">
+<rect width="930" height="450" x="0" y="0" id="0" fill="#fff"></rect>
+<path d="M60.5 60L60.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M199.5 60L199.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M338.5 60L338.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M476.5 60L476.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M615.5 60L615.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M754.5 60L754.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M893.5 60L893.5 416.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M60.5 416.5L60.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M60.6 416.5L55.6 416.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 365.5L55.6 365.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 314.5L55.6 314.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 263.5L55.6 263.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 213.5L55.6 213.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 162.5L55.6 162.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 111.5L55.6 111.5" fill="none" stroke="#6E7079"></path>
+<path d="M60.6 60.5L55.6 60.5" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 391.0357)" fill="#6E7079">Mon</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 340.1071)" fill="#6E7079">Tue</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 289.1786)" fill="#6E7079">Wed</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 238.25)" fill="#6E7079">Thu</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 187.3214)" fill="#6E7079">Fri</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 136.3929)" fill="#6E7079">Sat</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(52.62 85.4643)" fill="#6E7079">Sun</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(60.62 424.5)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(199.3167 424.5)" fill="#6E7079">500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(338.0133 424.5)" fill="#6E7079">1,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(476.71 424.5)" fill="#6E7079">1,500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(615.4067 424.5)" fill="#6E7079">2,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(754.1033 424.5)" fill="#6E7079">2,500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(892.8 424.5)" fill="#6E7079">3,000</text>
+<path d="M60.6 373.5l88.8 0l0 35.1l-88.8 0Z" fill="#c12e34"></path>
+<path d="M60.6 322.5l83.8 0l0 35.1l-83.8 0Z" fill="#c12e34"></path>
+<path d="M60.6 271.6l83.5 0l0 35.1l-83.5 0Z" fill="#c12e34"></path>
+<path d="M60.6 220.7l92.6 0l0 35.1l-92.6 0Z" fill="#c12e34"></path>
+<path d="M60.6 169.8l108.2 0l0 35.1l-108.2 0Z" fill="#c12e34"></path>
+<path d="M60.6 118.8l91.5 0l0 35.1l-91.5 0Z" fill="#c12e34"></path>
+<path d="M60.6 67.9l88.8 0l0 35.1l-88.8 0Z" fill="#c12e34"></path>
+<path d="M149.4 373.5l33.3 0l0 35.1l-33.3 0Z" fill="#e6b600"></path>
+<path d="M144.4 322.5l36.6 0l0 35.1l-36.6 0Z" fill="#e6b600"></path>
+<path d="M144.1 271.6l28 0l0 35.1l-28 0Z" fill="#e6b600"></path>
+<path d="M153.3 220.7l37.2 0l0 35.1l-37.2 0Z" fill="#e6b600"></path>
+<path d="M168.8 169.8l25 0l0 35.1l-25 0Z" fill="#e6b600"></path>
+<path d="M152.2 118.8l63.8 0l0 35.1l-63.8 0Z" fill="#e6b600"></path>
+<path d="M149.4 67.9l58.3 0l0 35.1l-58.3 0Z" fill="#e6b600"></path>
+<path d="M182.7 373.5l61 0l0 35.1l-61 0Z" fill="#0098d9"></path>
+<path d="M181 322.5l50.5 0l0 35.1l-50.5 0Z" fill="#0098d9"></path>
+<path d="M172.1 271.6l53 0l0 35.1l-53 0Z" fill="#0098d9"></path>
+<path d="M190.4 220.7l64.9 0l0 35.1l-64.9 0Z" fill="#0098d9"></path>
+<path d="M193.8 169.8l80.4 0l0 35.1l-80.4 0Z" fill="#0098d9"></path>
+<path d="M216 118.8l91.5 0l0 35.1l-91.5 0Z" fill="#0098d9"></path>
+<path d="M207.6 67.9l86 0l0 35.1l-86 0Z" fill="#0098d9"></path>
+<path d="M243.7 373.5l41.6 0l0 35.1l-41.6 0Z" fill="#2b821d"></path>
+<path d="M231.5 322.5l58.8 0l0 35.1l-58.8 0Z" fill="#2b821d"></path>
+<path d="M225.1 271.6l55.8 0l0 35.1l-55.8 0Z" fill="#2b821d"></path>
+<path d="M255.4 220.7l42.7 0l0 35.1l-42.7 0Z" fill="#2b821d"></path>
+<path d="M274.2 169.8l52.7 0l0 35.1l-52.7 0Z" fill="#2b821d"></path>
+<path d="M307.5 118.8l91.5 0l0 35.1l-91.5 0Z" fill="#2b821d"></path>
+<path d="M293.6 67.9l113.7 0l0 35.1l-113.7 0Z" fill="#2b821d"></path>
+<path d="M285.3 373.5l227.5 0l0 35.1l-227.5 0Z" fill="#005eaa"></path>
+<path d="M290.3 322.5l230.8 0l0 35.1l-230.8 0Z" fill="#005eaa"></path>
+<path d="M280.9 271.6l249.9 0l0 35.1l-249.9 0Z" fill="#005eaa"></path>
+<path d="M298.1 220.7l259.1 0l0 35.1l-259.1 0Z" fill="#005eaa"></path>
+<path d="M326.9 169.8l357.8 0l0 35.1l-357.8 0Z" fill="#005eaa"></path>
+<path d="M399 118.8l368.9 0l0 35.1l-368.9 0Z" fill="#005eaa"></path>
+<path d="M407.4 67.9l366.2 0l0 35.1l-366.2 0Z" fill="#005eaa"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(105.0029 391.0357)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">320</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(102.5064 340.1071)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">302</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(102.3677 289.1786)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">301</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(106.9447 238.25)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">334</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(114.7117 187.3214)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">390</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(106.3899 136.3929)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(105.0029 85.4643)" fill="#eee" stroke="#c12e34" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">320</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(166.0295 391.0357)" fill="#333">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(162.7007 340.1071)" fill="#333">132</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(158.1238 289.1786)" fill="#333">101</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(171.8547 238.25)" fill="#333">134</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(181.2861 187.3214)" fill="#333">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(184.06 136.3929)" fill="#333">230</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(178.5122 85.4643)" fill="#333">210</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(213.1863 391.0357)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">220</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(206.2515 340.1071)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">182</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(198.6232 289.1786)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">191</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(222.8951 238.25)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">234</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(233.9908 187.3214)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">290</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(261.7302 136.3929)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(250.6344 85.4643)" fill="#eee" stroke="#0098d9" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">310</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(264.5041 391.0357)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(260.898 340.1071)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">212</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(252.9923 289.1786)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">201</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(276.7094 238.25)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">154</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(300.5652 187.3214)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">190</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(353.27 136.3929)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(350.496 85.4643)" fill="#eee" stroke="#2b821d" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">410</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(399.0399 391.0357)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">820</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(405.6973 340.1071)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">832</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(405.836 289.1786)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">901</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(427.6114 238.25)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">934</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(505.8363 187.3214)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1290</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(583.5064 136.3929)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(590.4413 85.4643)" fill="#eee" stroke="#005eaa" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1320</text>
+<path d="M-5 -5l457 0l0 24l-457 0Z" transform="translate(241.48 5)" fill="none" stroke="#ccc" stroke-width="0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(241.48 5)" fill="#c12e34"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" x="30" y="7" transform="translate(241.48 5)" fill="#333">Direct</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(312.8 5)" fill="#e6b600"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" xml:space="preserve" x="30" y="7" transform="translate(312.8 5)" fill="#333">Mail Ad</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(392.88 5)" fill="#0098d9"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" xml:space="preserve" x="30" y="7" transform="translate(392.88 5)" fill="#333">Affiliate Ad</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(490.48 5)" fill="#2b821d"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" xml:space="preserve" x="30" y="7" transform="translate(490.48 5)" fill="#333">Video Ad</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(579.44 5)" fill="#005eaa"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" xml:space="preserve" x="30" y="7" transform="translate(579.44 5)" fill="#333">Search Engine</text>
+</svg>
