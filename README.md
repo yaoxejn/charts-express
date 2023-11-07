@@ -150,8 +150,9 @@ In this case, the result will be a JSON like below:
 }
 
 ```
-![Result(SVG)](./images/controllers_brief.svg)
-<img src="./images/controllers_brief.svg">
+
+![Result(SVG)](./images/example_1.svg)
+<img src="./images/example_1.svg">
 
 
 Other example is to output file directly by using parameter output through URL http://localhost:3000/echartsapi/customize/basic-full.
