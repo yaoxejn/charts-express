@@ -60,7 +60,7 @@ Test with Postman
 - Set the URI to http://localhost:\<port\>/. For example, http://localhost:3000/echartsapi/customize/basic.
 - Select the Body tab.
 - Select the raw radio button.
-- Set the type to JSON (application/json).  For example:
+- Set the type to JSON (application/json).  For example: (from offical example [***bar-y-category-stack***](https://echarts.apache.org/examples/zh/editor.html?c=bar-y-category-stack))
 
 ``` json
 {
@@ -151,6 +151,22 @@ In this case, the result will be a JSON like below:
 
 ```
 
+Other example is to output file directly by using parameter output through URL http://localhost:3000/echartsapi/customize/basic-full.
+
+``` json
+{
+    "width": 930,
+    "height": 450,
+    "renderer": "svg",
+    "theme": "shine",
+    "fontFamily":"",
+    "output": "file",
+    "option": {
+        ......
+    }
+}
+```
+
 ### About Echarts Theme
 
 The application supported all offical themes by using parameter theme. For example:
@@ -165,7 +181,7 @@ The application supported all offical themes by using parameter theme. For examp
 }
 ```
 
-All theme files are located in the directory (src/theme/echarts). Putting your own theme file to the directory so that the application will support the theme directly.
+All theme files are located in the directory (src/theme/echarts). Putting your own theme file to the directory so that the application will support those theme directly.
 
 ```diff
   ├─┬ src
