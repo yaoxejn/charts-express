@@ -20,6 +20,9 @@ cd charts-express
 # install dependency
 npm install
 
+# build app
+npm run build
+
 # run app
 npm run start
 
@@ -156,7 +159,7 @@ The application supported all offical themes by using parameter theme. For examp
 {
     "width": 930,
     "height": 450,
-    ...
+    ......
     "theme": "macarons",
     ...
 }
