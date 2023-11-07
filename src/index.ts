@@ -6,6 +6,7 @@ import { authentication } from './middleware/auth'
 import { errorMiddleware } from './middleware/errorMiddleware'
 
 import { router as customize } from './routes/basic'
+import { router as examples } from './routes/examples'
 
 dotenv.config({ override: false }) // Override any environment variables that have already been set on your machine with values from your .env file. default true. 
 
@@ -27,6 +28,8 @@ app.get('/', (req: Request, res: Response) => {
 })
 
 app.use('/echartsapi/customize', customize)
+
+app.use('/echartsapi/examples', examples)
 
 app.use(errorMiddleware)
 

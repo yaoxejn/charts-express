@@ -136,7 +136,7 @@ Test with Postman
 
 ```
 
-- Select the Auth tab, and select "Bearer Token" from the Type dropdown list. The Token could be one of  the keys in the file (./src/data/keys.json) by default, for example, A3E2AD92A8714D099C4B5FFAF77161E8. You could create your own API authentication, such as JWT , API Key and Basic Auth.
+- Select the Auth tab, and select "Bearer Token" from the Type dropdown list. The Token could be one of  the keys in the file [keys.json](./src/data/keys.json) by default, for example, A3E2AD92A8714D099C4B5FFAF77161E8. You could create your own API authentication, such as JWT , API Key and Basic Auth.
 - Select Send.
 
 In this case, the result will be a JSON like below:
@@ -151,9 +151,8 @@ In this case, the result will be a JSON like below:
 
 ```
 
+Result
 ![Result(SVG)](./images/example_1.svg)
-<img src="./images/example_1.svg">
-
 
 Other example is to output file directly by using parameter output through URL http://localhost:3000/echartsapi/customize/basic-full.
 
@@ -171,6 +170,101 @@ Other example is to output file directly by using parameter output through URL h
 }
 ```
 
+### Custom your own api
+
+There is an [example](./src/routes/examples.ts).
+URL: http://localhost:3000/echartsapi/examples/rainfall
+
+```json
+{
+    "width": 930,
+    "height": 320,
+    "theme": "royal",
+    "title": "Rainfall title",
+    "subTitle": "Rainfall subtitle",
+    "legend": ["2020","2021"],
+    "xAxis": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "data":[
+        [ 2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3 ],
+        [2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3]
+    ],
+    "maxValue": {
+        "value": 182.2, "x": 7, "y": 183
+    },
+    "minValue": {
+        "value": 2.3, "x": 11, "y": 3
+    }
+}
+```
+
+Result
+![Result(SVG)](./images/rainfall.svg)
+
+#### 1. Ceate route in directory (src/routes)
+
+``` ts
+import { Router } from 'express'
+import { Render } from '../charts/echartsRenderer'
+import { getRenderer, getImageFormat } from '../utils/echartsUtils'
+import { EchartsRenderCallback } from '../charts'
+
+export const router = Router()
+
+router.post('/<your path>', async (req, res) => {
+    
+    //define custom parameters
+    const body = req.body
+    const width = body.width
+    const height = body.height
+    const title = body.title
+    const subTitle = body.subTitle
+
+    ......
+
+    // define custom echart option object with those parameters before
+    const opt = {
+        ......
+    }
+
+    // define render Config object
+    const config = {
+        width, // Image width, type is number.
+        height, // Image height, type is number.
+        option: opt, // Echarts configuration, type is Object.
+        theme: '',
+        fontFamily: undefined
+    }
+
+    // using theme and fontFamily if exist
+    if (req.body.theme) { config.theme = req.body.theme }
+    if (req.body.fontFamily) config.fontFamily = req.body.fontFamily
+
+    // call Render() and reutrn json result
+    let cb: EchartsRenderCallback
+    await Render(config as any, src => cb = src, renderer, formatter, req.body.func)
+
+    res.json({
+        result: !!cb!.base64,
+        useCanvas: cb!.useCanvas,
+        funcError: cb!.funcError,
+        base64: cb!.base64
+    })
+}
+
+```
+
+#### 2. Add route into express
+Modify [index.ts](./src/index.ts)
+
+``` ts
+    ......
+    import { router as <alias-name> } from './routes/<file-name>'
+
+    ......
+    app.use('/echartsapi/<path>', <alias-name>)
+
+```
+
 ### About Echarts Theme
 
 The application supported all offical themes by using parameter theme. For example:
@@ -185,7 +279,7 @@ The application supported all offical themes by using parameter theme. For examp
 }
 ```
 
-All theme files are located in the directory (./src/theme/echarts). Putting your own theme file to the directory so that the application will support those theme directly.
+All theme files are located in the directory [src/theme/echarts](./src/theme/echarts). Putting your own theme file to the directory so that the application will support those theme directly.
 
 ```diff
   ├─┬ src

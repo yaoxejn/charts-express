@@ -1,0 +1,93 @@
+<svg width="930" height="320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 930 320">
+<rect width="930" height="320" x="0" y="0" id="0" fill="#fff"></rect>
+<path d="M93 250.5L837 250.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 223.5L837 223.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 195.5L837 195.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 168.5L837 168.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 141.5L837 141.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 114.5L837 114.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 87.5L837 87.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 60.5L837 60.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M93 250.5L837 250.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M93.5 250L93.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M155.5 250L155.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M217.5 250L217.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M279.5 250L279.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M341.5 250L341.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M403.5 250L403.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M465.5 250L465.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M527.5 250L527.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M589.5 250L589.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M651.5 250L651.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M713.5 250L713.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M775.5 250L775.5 255" fill="none" stroke="#6E7079"></path>
+<path d="M837.5 250L837.5 255" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 250)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 222.8571)" fill="#6E7079">30</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 195.7143)" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 168.5714)" fill="#6E7079">90</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 141.4286)" fill="#6E7079">120</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 114.2857)" fill="#6E7079">150</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 87.1429)" fill="#6E7079">180</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial;" transform="translate(85 60)" fill="#6E7079">210</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(124 258)" fill="#6E7079">Jan</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(186 258)" fill="#6E7079">Feb</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(248 258)" fill="#6E7079">Mar</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(310 258)" fill="#6E7079">Apr</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(372 258)" fill="#6E7079">May</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(434 258)" fill="#6E7079">Jun</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(496 258)" fill="#6E7079">Jul</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(558 258)" fill="#6E7079">Aug</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(620 258)" fill="#6E7079">Sep</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(682 258)" fill="#6E7079">Oct</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(744 258)" fill="#6E7079">Nov</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" y="6" transform="translate(806 258)" fill="#6E7079">Dec</text>
+<path d="M101.4 250l20.6 0l0 -1.8l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M163.4 250l20.6 0l0 -4.4l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M225.4 250l20.6 0l0 -6.3l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M287.4 250l20.6 0l0 -21l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M349.4 250l20.6 0l0 -23.2l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M411.4 250l20.6 0l0 -69.4l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M473.4 250l20.6 0l0 -122.7l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M535.4 250l20.6 0l0 -146.8l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M597.4 250l20.6 0l0 -29.5l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M659.4 250l20.6 0l0 -18.1l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M721.4 250l20.6 0l0 -5.8l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M783.4 250l20.6 0l0 -3l-20.6 0Z" fill="#3f7ea6"></path>
+<path d="M126.1 250l20.6 0l0 -2.4l-20.6 0Z" fill="#993366"></path>
+<path d="M188.1 250l20.6 0l0 -5.3l-20.6 0Z" fill="#993366"></path>
+<path d="M250.1 250l20.6 0l0 -8.1l-20.6 0Z" fill="#993366"></path>
+<path d="M312.1 250l20.6 0l0 -23.9l-20.6 0Z" fill="#993366"></path>
+<path d="M374.1 250l20.6 0l0 -26l-20.6 0Z" fill="#993366"></path>
+<path d="M436.1 250l20.6 0l0 -64l-20.6 0Z" fill="#993366"></path>
+<path d="M498.1 250l20.6 0l0 -158.9l-20.6 0Z" fill="#993366"></path>
+<path d="M560.1 250l20.6 0l0 -164.8l-20.6 0Z" fill="#993366"></path>
+<path d="M622.1 250l20.6 0l0 -44.1l-20.6 0Z" fill="#993366"></path>
+<path d="M684.1 250l20.6 0l0 -17l-20.6 0Z" fill="#993366"></path>
+<path d="M746.1 250l20.6 0l0 -5.4l-20.6 0Z" fill="#993366"></path>
+<path d="M808.1 250l20.6 0l0 -2.1l-20.6 0Z" fill="#993366"></path>
+<path d="M-5 -5l133.8 0l0 24l-133.8 0Z" transform="translate(403.12 301)" fill="none" stroke="#ccc" stroke-width="0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(403.12 301)" fill="#3f7ea6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" x="30" y="7" transform="translate(403.12 301)" fill="#333">2020</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(470 301)" fill="#993366"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" x="30" y="7" transform="translate(470 301)" fill="#333">2021</text>
+<path d="M93 212.5L837 212.5" fill="none" stroke="#3f7ea6" stroke-dasharray="4,2"></path>
+<path d="M4 0A4 4 0 1 1 4 -0.4A4 4 0 0 1 4 0" transform="matrix(0,-1,1,0,93,212.3348)" fill="#3f7ea6"></path>
+<path d="M0 0L5.3 16L0 12L-5.3 16L0 0Z" transform="matrix(0,1,-1,0,837,212.3348)" fill="#3f7ea6"></path>
+<path d="M93 206.5L837 206.5" fill="none" stroke="#993366" stroke-dasharray="4,2"></path>
+<path d="M4 0A4 4 0 1 1 4 -0.4A4 4 0 0 1 4 0" transform="matrix(0,-1,1,0,93,206.5081)" fill="#993366"></path>
+<path d="M0 0L5.3 16L0 12L-5.3 16L0 0Z" transform="matrix(0,1,-1,0,837,206.5081)" fill="#993366"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" transform="translate(842 212.3348)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">41.63</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial;" transform="translate(842 206.5081)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">48.07</text>
+<path d="M-0.54 -0.89A0.6 0.6 0 1 1 0.54 -0.89C0.39 -0.56 0 -0.42 0 0C0 -0.42 -0.39 -0.56 -0.54 -0.89Z" transform="matrix(25,0,0,25,545.6564,103.2476)" fill="#3f7ea6"></path>
+<path d="M-0.54 -0.89A0.6 0.6 0 1 1 0.54 -0.89C0.39 -0.56 0 -0.42 0 0C0 -0.42 -0.39 -0.56 -0.54 -0.89Z" transform="matrix(25,0,0,25,111.6564,248.1905)" fill="#3f7ea6"></path>
+<path d="M-0.54 -0.89A0.6 0.6 0 1 1 0.54 -0.89C0.39 -0.56 0 -0.42 0 0C0 -0.42 -0.39 -0.56 -0.54 -0.89Z" transform="matrix(25,0,0,25,818.3436,247.2857)" fill="#993366"></path>
+<path d="M-0.54 -0.89A0.6 0.6 0 1 1 0.54 -0.89C0.39 -0.56 0 -0.42 0 0C0 -0.42 -0.39 -0.56 -0.54 -0.89Z" transform="matrix(25,0,0,25,818.3436,247.2857)" fill="#993366"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(545.6564 77.1048)" fill="#eee" stroke="#3f7ea6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">162.2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(111.6564 222.0476)" fill="#eee" stroke="#3f7ea6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(818.3436 221.1429)" fill="#eee" stroke="#993366" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">182.2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" transform="translate(818.3436 221.1429)" fill="#eee" stroke="#993366" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2.3</text>
+<path d="M-51.6 -5l103.2 0l0 50l-103.2 0Z" transform="translate(465 5)" fill="none" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:Arial;" xml:space="preserve" y="9" transform="translate(465 5)" fill="#3f7ea6">Rainfall title</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial;" xml:space="preserve" y="34" transform="translate(465 5)" fill="#6E7079">Rainfall subtitle</text>
+</svg>
